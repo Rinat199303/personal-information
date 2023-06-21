@@ -16,5 +16,7 @@ I'm a student in Netology(Lerning the block Git&GitHub)
 
 #### Interests and hobby(интересы и увлечения)
 
-Я изучаю Java уже почти полгода, мне очень нравится этот язык программирования мне нравится как проиходит процесс кодирования, я хочу изучить эту проффессию и получить работу в этой сфере.
+Я изучаю Java уже почти полгода, мне очень нравится этот язык программирования и мне нравится как проиходит процесс кодирования, я хочу изучить эту проффессию и получить работу в этой сфере.
 Так же я читаю книги по JAVA и мне нравится читать книги по философии.
+
+I have been studying Java for almost half year, I really like this programming language and I like codding process, I want to study this proffeshion and gey a job in this field. I also read Java books and I like to philosophy books. 
